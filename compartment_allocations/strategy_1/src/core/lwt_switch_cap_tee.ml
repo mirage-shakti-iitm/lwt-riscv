@@ -1,0 +1,11 @@
+(*
+camlLwt_switch__create:13
+camlLwt_switch__is_on:13
+camlLwt_switch__check:13
+camlLwt_switch__add_hook:13
+camlLwt_switch__add_hook_or_exec:13
+camlLwt_switch__turn_off:13
+camlLwt_switch__with_switch:13
+camlLwt_switch_:255
+camlLwt_switch__fun:13
+*)
