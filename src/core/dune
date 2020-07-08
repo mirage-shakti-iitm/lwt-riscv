@@ -4,4 +4,5 @@
  (synopsis "Monadic promises and concurrent I/O")
  (wrapped false)
  (libraries bytes result seq)
- (flags (:standard -w +A-29)))
+ (flags (:standard -w +A-29))
+ (ocamlopt_flags (-S)))
