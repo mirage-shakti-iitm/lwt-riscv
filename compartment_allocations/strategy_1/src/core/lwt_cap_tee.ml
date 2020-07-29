@@ -155,10 +155,10 @@ camlLwt__pause:13
 camlLwt__wakeup_paused:13
 camlLwt__register_pause_notifier:13
 camlLwt__paused_count:13
-camlLwt__.3d.3c.3c:13
-camlLwt__.3e.7c.3d:13
-camlLwt__.3c.26.3e:13
-camlLwt__.3c.3f.3e:13
+camlLwt__=<<:13
+camlLwt__>|=:13
+camlLwt__<&>:13
+camlLwt__<?>:13
 camlLwt__map:13
 camlLwt__bind:13
 camlLwt__make_value:13

@@ -10,7 +10,7 @@ camlLwt_result__bind:13
 camlLwt_result__bind_lwt:13
 camlLwt_result__bind_result:13
 camlLwt_result__bind_lwt_err:13
-camlLwt_result__.3e.7c.3d:13
+camlLwt_result__>|=:13
 camlLwt_result_:255
 camlLwt_result__fun:13
 *)
