@@ -35,7 +35,7 @@ conflicts: [
 ]
 
 build: [
-  [make "add-cap-files"]
+  (* [make "add-cap-files"] *)
   ["dune" "build" "-x" "riscv" "-p" "lwt" "-j" jobs]
 ]
 
