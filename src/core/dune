@@ -5,4 +5,4 @@
  (wrapped false)
  (libraries bytes result seq)
  (flags (:standard -w +A-29))
- (ocamlopt_flags (-default-compartment-id 54 -function-sections)))
+ (ocamlopt_flags (-default-compartment-id 26 -function-sections)))
